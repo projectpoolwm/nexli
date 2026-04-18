@@ -1,4 +1,4 @@
-# nexli - Telegram-like Messenger
+# nexli - Messenger
 
 A full-stack real-time messenger with voice messages, file sharing, and unique user IDs.
 
