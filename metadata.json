@@ -1,0 +1,6 @@
+{
+  "name": "Nexli",
+  "description": "Nexli messenger with real-time chats, voice calls, file sharing and searchable profiles.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
